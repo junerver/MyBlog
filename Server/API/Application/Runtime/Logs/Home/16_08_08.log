@@ -1,0 +1,625 @@
+[ 2016-08-08T20:31:43+08:00 ] ::1 /wordpress/API/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-08T21:00:00+08:00 ] ::1 /wordpress/API/Home/articleById/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:ArticleById
+
+[ 2016-08-08T21:00:09+08:00 ] ::1 /wordpress/API/Home/index/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 非法操作:1
+
+[ 2016-08-08T21:00:16+08:00 ] ::1 /wordpress/API/Home/index/articleById/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-08T21:03:12+08:00 ] ::1 /wordpress/API/Home/index/articleById/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-08-08T21:03:13+08:00 ] ::1 /wordpress/API/Home/index/articleById/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-08-08T21:04:27+08:00 ] ::1 /wordpress/API/Home/index/articleById/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-08T21:04:28+08:00 ] ::1 /wordpress/API/Home/index/articleById/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-08T21:04:48+08:00 ] ::1 /wordpress/API/Home/index/articleById/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-08-08T21:05:03+08:00 ] ::1 /wordpress/API/Home/index/articleById/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-08-08T21:05:13+08:00 ] ::1 /wordpress/API/Home/index/articleById/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-08T21:09:14+08:00 ] ::1 /wordpress/API/Home/index/articleById/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-08T21:09:17+08:00 ] ::1 /wordpress/API/Home/index/articleById/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-08-08T21:09:19+08:00 ] ::1 /wordpress/API/Home/index/articleById/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-08T21:09:21+08:00 ] ::1 /wordpress/API/Home/index/articleById/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-08-08T21:09:21+08:00 ] ::1 /wordpress/API/Home/index/articleById/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-08-08T21:09:23+08:00 ] ::1 /wordpress/API/Home/index/articleById/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-08T21:10:41+08:00 ] ::1 /wordpress/API/Home/index/articleById/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-08-08T21:13:07+08:00 ] ::1 /wordpress/API/Home/index/articleById/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-08-08T21:13:50+08:00 ] ::1 /wordpress/API/Home/index/articleById/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+
+[ 2016-08-08T21:13:57+08:00 ] ::1 /wordpress/API/Home/index/articleById/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-08T21:14:18+08:00 ] ::1 /wordpress/API/Home/index/articleById/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-08-08T21:14:55+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE ( 5 )  [ RunTime:0.0010s ]
+
+[ 2016-08-08T21:16:44+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0230s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SELECT wposts.ID AS `id`,`post_content` AS `content`,`post_title` AS `title`,`post_date` AS `date`,`comment_count` AS `commentCount`,`post_author`,wpostmeta.meta_value AS `views` FROM wp_posts wposts,wp_postmeta wpostmeta WHERE ( wposts.ID = 5 AND wpostmeta.meta_key = 'views' )  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 E:\xampp\htdocs\wordpress\API\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2016-08-08T21:17:48+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0010s ]
+SQL: SELECT wposts.ID AS `id`,`post_content` AS `content`,`post_title` AS `title`,`post_date` AS `date`,`comment_count` AS `commentCount`,`post_author`,wpostmeta.meta_value AS `views` FROM wp_posts wposts,wp_postmeta wpostmeta WHERE ( wposts.ID = 5 AND wpostmeta.meta_key = 'views' )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\xampp\htdocs\wordpress\API\Application\Home\Controller\IndexController.class.php 第 27 行.
+
+[ 2016-08-08T21:17:49+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0030s ]
+SQL: SELECT wposts.ID AS `id`,`post_content` AS `content`,`post_title` AS `title`,`post_date` AS `date`,`comment_count` AS `commentCount`,`post_author`,wpostmeta.meta_value AS `views` FROM wp_posts wposts,wp_postmeta wpostmeta WHERE ( wposts.ID = 5 AND wpostmeta.meta_key = 'views' )  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined offset: 0 E:\xampp\htdocs\wordpress\API\Application\Home\Controller\IndexController.class.php 第 24 行.
+
+[ 2016-08-08T21:17:56+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE ( 5 )  [ RunTime:0.0000s ]
+
+[ 2016-08-08T21:18:32+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0160s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts`  [ RunTime:0.0000s ]
+
+[ 2016-08-08T21:19:12+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-08-08T21:19:19+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-08-08T21:19:23+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-08-08T21:19:37+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0130s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `ID` = '2' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-08-08T21:19:44+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `ID` = '5' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-08-08T21:19:48+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `ID` = '6' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-08-08T21:19:53+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `ID` = '4' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-08-08T21:19:59+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `ID` = '5' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-08-08T21:20:05+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `ID` = '6' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-08-08T21:20:11+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `ID` = '7' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-08-08T21:21:11+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `ID` = '7' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-08-08T21:21:27+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0240s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `ID` = '4' LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2016-08-08T21:21:40+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `ID` = '6' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-08-08T21:21:45+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `ID` = '7' LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2016-08-08T21:21:49+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `ID` = '7' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-08-08T21:22:17+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0170s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `ID` = '7' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-08-08T21:22:21+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `ID` = '5' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-08-08T21:22:38+08:00 ] ::1 /wordpress/API/Home/index/articleById/articleId/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `ID` = '6' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-08-08T21:30:29+08:00 ] ::1 /wordpress/API/Home/index/findAllArticles/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `post_status` = 'publish'  [ RunTime:0.0010s ]
+
+[ 2016-08-08T21:36:26+08:00 ] ::1 /wordpress/API/Home/article/articleById/articleId/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Article
+
+[ 2016-08-08T21:36:43+08:00 ] ::1 /wordpress/API/Home/article/articleById/articleId/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0190s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `ID` = '6' AND `post_status` = 'publish' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-08-08T21:36:49+08:00 ] ::1 /wordpress/API/Home/article/articleById/articleId/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `ID` = '5' AND `post_status` = 'publish' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-08-08T21:49:37+08:00 ] ::1 /wordpress/API/Home/index/getPostsCount/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Index
+
+[ 2016-08-08T21:49:48+08:00 ] ::1 /wordpress/API/Home/index/getPostsCount/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载控制器:Index
+
+[ 2016-08-08T21:49:50+08:00 ] ::1 /wordpress/API/Home/article/articleById/articleId/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 非法操作:articleById
+
+[ 2016-08-08T21:50:37+08:00 ] ::1 /wordpress/API/Home/Article/getPostsCount/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0160s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wp_posts` WHERE `post_status` = 'publish' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-08-08T21:51:33+08:00 ] ::1 /wordpress/API/Home/Article/getPostsCount/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wp_posts` WHERE `post_status` = 'publish' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-08-08T21:51:35+08:00 ] ::1 /wordpress/API/Home/Article/getPostsCount/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `wp_posts` WHERE `post_status` = 'publish' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-08-08T22:00:57+08:00 ] ::1 /wordpress/API/Home/Article/getAllPosts/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0220s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `post_status` = 'publish'  [ RunTime:0.0000s ]
+
+[ 2016-08-08T22:01:21+08:00 ] ::1 /wordpress/API/Home/Article/getPostsAfterId/articleId/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `post_status` = 'publish' AND `ID` > '1'  [ RunTime:0.0000s ]
+
+[ 2016-08-08T22:01:25+08:00 ] ::1 /wordpress/API/Home/Article/getPostsAfterId/articleId/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`post_content`,`post_title`,`post_date` FROM `wp_posts` WHERE `post_status` = 'publish' AND `ID` > '2'  [ RunTime:0.0000s ]
+
+[ 2016-08-08T22:03:38+08:00 ] ::1 /wordpress/API/Home/Article/getLastDate/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SELECT `post_date` FROM `wp_posts`  [ RunTime:0.0130s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-08T22:04:13+08:00 ] ::1 /wordpress/API/Home/Article/getLastDate/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0160s ]
+SQL: SELECT `post_date` FROM `wp_posts`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-08-08T22:04:17+08:00 ] ::1 /wordpress/API/Home/Article/getLastDate/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `wp_posts` [ RunTime:0.0020s ]
+SQL: SELECT `post_date` FROM `wp_posts` WHERE `post_status` = 'publish'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
